@@ -12,7 +12,8 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
 	- 题目:https://t.zsxq.com/UF2BMvJ
 
 ## 最新推荐
-
+- Goby指纹的提取和YARA逆向
+	- https://t.zsxq.com/q7E2Nfe
 - go-strip 更新啦 v2.0 成品+源码
 	- https://t.zsxq.com/rzvRnEm
 - 通用验证码识别库源码，可以识别英数+汉字
