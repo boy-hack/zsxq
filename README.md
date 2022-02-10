@@ -5,15 +5,19 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
 
 ## 星球作业整理
 - 第一期：Goby指纹和Poc的提取方法 (已完结)
-	- 题目：https://t.zsxq.com/eyfybqv
+  - 题目：https://t.zsxq.com/eyfybqv
 - 第二期：调用goby指纹的识别扫描 (已完结)
   - 题目：https://t.zsxq.com/eyfybqv
-- 第三期：兼容社区PoC的通用验证工具 (进行中)
-	- 题目:https://t.zsxq.com/UF2BMvJ
+- 第三期：兼容社区PoC的通用验证工具 (已完结)
+  - 题目:https://t.zsxq.com/UF2BMvJ
 
 ## 最新推荐
+- w14scan 更新啦，开放源码！ 完成了第三期作业 《兼容xray和nuclei的poc验证工具》
+	- https://t.zsxq.com/27UJm2v
 - w14scan发布
 	- https://t.zsxq.com/YzVbuvJ
+- ksubdomain新版发布，github action 自动编译三平台
+	- https://t.zsxq.com/uzjAQbu
 - Goby指纹的提取和YARA逆向
 	- https://t.zsxq.com/q7E2Nfe
 - go-strip 更新啦 v2.0 成品+源码
