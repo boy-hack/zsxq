@@ -12,6 +12,8 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
   - 题目:https://t.zsxq.com/UF2BMvJ
 
 ## 最新推荐
+- 我自动化获得微软漏洞赏金的经历
+	- https://t.zsxq.com/a6Aie2f
 - w14scan 更新啦，开放源码！ 完成了第三期作业 《兼容xray和nuclei的poc验证工具》
 	- https://t.zsxq.com/27UJm2v
 - w14scan发布
