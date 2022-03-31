@@ -12,6 +12,11 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
   - 题目:https://t.zsxq.com/UF2BMvJ
 
 ## 最新推荐
+- CVE-2022-0847 Linux DirtyPipe 内核提权与docker逃逸 #go
+	- https://t.zsxq.com/fE233RZ
+	- https://t.zsxq.com/fE233RZ
+	- https://t.zsxq.com/NJaAyVz
+	- https://t.zsxq.com/NJaAyVz
 - 我自动化获得微软漏洞赏金的经历
 	- https://t.zsxq.com/a6Aie2f
 - w14scan 更新啦，开放源码！ 完成了第三期作业 《兼容xray和nuclei的poc验证工具》
