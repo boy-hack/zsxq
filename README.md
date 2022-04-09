@@ -9,8 +9,10 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
 - 第二期：调用goby指纹的识别扫描 (已完结)
   - 题目：https://t.zsxq.com/eyfybqv
 - 第三期：兼容社区PoC的通用验证工具 (已完结)
-  - 题目:https://t.zsxq.com/UF2BMvJ
-
+  - 题目: https://t.zsxq.com/UF2BMvJ
+- 第四期：刷src的xss扫描器
+  - 题目: https://t.zsxq.com/rV3JqrB
+  
 ## 最新推荐
 - CVE-2022-0847 Linux DirtyPipe 内核提权与docker逃逸 #go
 	- https://t.zsxq.com/fE233RZ
