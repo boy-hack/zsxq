@@ -14,6 +14,10 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
   - 题目: https://t.zsxq.com/rV3JqrB
   
 ## 最新推荐
+- xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
+	- https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
+	- https://t.zsxq.com/02MBaAiqv xscan v0.8
+	- https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
 - CVE-2022-0847 Linux DirtyPipe 内核提权与docker逃逸 #go
 	- https://t.zsxq.com/fE233RZ
 	- https://t.zsxq.com/fE233RZ
