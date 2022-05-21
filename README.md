@@ -14,6 +14,8 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
   - 题目: https://t.zsxq.com/rV3JqrB
   
 ## 最新推荐
+- 域传送批量检测 Go源码 
+	- https://t.zsxq.com/022RV7e6U
 - xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
 	- https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
 	- https://t.zsxq.com/02MBaAiqv xscan v0.8
