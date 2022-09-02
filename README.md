@@ -1,7 +1,9 @@
-# zsxq
+# Hacking自动化 安全补全计划
 Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484177&idx=1&sn=e394fc7db94d90fd64b2402ba54a4731&chksm=fc986a36cbefe3202b37f8943b11b98176b14d0f2c139857b5510c2ac49acf2e462d06629799&token=338286590&lang=zh_CN#rd
 
-很多黑客和安全工具的构造是那么巧妙，我看了很多安全工具的代码，将它们值得学习的地方记录了下来。一点点开发+安全的结合，Hacking自动化就是好玩，这个仓库将持续更新星球中的精华文章，源码和思路，付费加入是我更新的动力。
+很多黑客和安全工具的构造是那么巧妙，我看了很多安全工具的代码，将它们值得学习的地方记录了下来。这个仓库将持续更新星球中的精华文章和补全安全知识，记录笔记，对自己对他人都是一种收获。付费加入是我更新的动力。
+
+ps: 随时修改，有链接的是正在补全的知识，无链接的代表占位的知识，等以后补全。
 
 ## 星球作业整理
 - 第一期：Goby指纹和Poc的提取方法 (已完结)
@@ -10,94 +12,163 @@ Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq
   - 题目：https://t.zsxq.com/eyfybqv
 - 第三期：兼容社区PoC的通用验证工具 (已完结)
   - 题目: https://t.zsxq.com/UF2BMvJ
-- 第四期：刷src的xss扫描器(进行中)
+- 第四期：刷src的xss扫描器(已完结)
   - 题目: https://t.zsxq.com/rV3JqrB
   
-## 最新推荐
-- 域传送批量检测 Go源码 
-	- https://t.zsxq.com/022RV7e6U
-- xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
-	- https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
-	- https://t.zsxq.com/02MBaAiqv xscan v0.8
-	- https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
-- CVE-2022-0847 Linux DirtyPipe 内核提权与docker逃逸 #go
-	- https://t.zsxq.com/fE233RZ
-	- https://t.zsxq.com/fE233RZ
-	- https://t.zsxq.com/NJaAyVz
-	- https://t.zsxq.com/NJaAyVz
-- 我自动化获得微软漏洞赏金的经历
-	- https://t.zsxq.com/a6Aie2f
-- w14scan 更新啦，开放源码！ 完成了第三期作业 《兼容xray和nuclei的poc验证工具》
-	- https://t.zsxq.com/27UJm2v
-- w14scan发布
-	- https://t.zsxq.com/YzVbuvJ
-- ksubdomain新版发布，github action 自动编译三平台
-	- https://t.zsxq.com/uzjAQbu
-- Goby指纹的提取和YARA逆向
-	- https://t.zsxq.com/q7E2Nfe
-- go-strip 更新啦 v2.0 成品+源码
-	- https://t.zsxq.com/rzvRnEm
-- 通用验证码识别库源码，可以识别英数+汉字
-	- https://t.zsxq.com/u7AyFe6
-- sliver c2相关的原理
-	- https://t.zsxq.com/ny7IIUj
 
-- hacking8的chrome插件计划(doing)
-	- https://t.zsxq.com/nAQvrNr
-	- https://t.zsxq.com/nqVNVz3
-- Go Rat + electron
-	- https://t.zsxq.com/JE27iea
-- Windows补丁对比工具是怎么做的？
-	- https://t.zsxq.com/6yv7AEi
-- ssrfmap 原理
-	- https://t.zsxq.com/z7yFIIE
-- ksubdomain 重构记录
-	- 信息流的src资产收集 SRC资产数据 用的是ksubdomain
-	- https://t.zsxq.com/ZRrnmmy
-- linux rootkit 入门
-	- https://t.zsxq.com/NFeiM3N
-- dom-based-xss-finder 采用AST+js动态hook查找dom-xss的原理
-	- dom-based-xss-finder 自动查找dom-xss的原理。dom-based-xss-finder是一个chrome插件，采用AST语法解析、js动态hook的方式来检测dom-xss，并会给出对应的调用堆栈。
-	- https://t.zsxq.com/6YfEAeE
-- XssSnpier原理
-	- XssSnpier，是来自3600kee的一个检测xss的chrome插件，看了一下它的大概原理，基于fuzz和基于监控error报错信息的半自动插件。
-	- https://t.zsxq.com/2RbuZ7U
-- dalfox源码学习
-	- 在信息流上看到有人star这个项目，dalfox是一个基于golang的xss扫描器，介绍说基于golang/DOM parser。
-	- https://t.zsxq.com/3rZbi2r
-- crawlergo源码的学习
-	- crawlergo源码的学习，以前就想写动态爬虫了，因为能原生干很多事情，现在终于可以试试了.准备写一份更新在知识星球 (又开一坑)
-	- https://t.zsxq.com/JIYNNNR
-	- https://t.zsxq.com/JYbuBEQ
-	- https://t.zsxq.com/6MNfauz
-- cs上线器源码和相关原理
-	- https://t.zsxq.com/uVnqjyb
-	- https://t.zsxq.com/jyfAynI
-- 模仿cs写c2
-	- https://t.zsxq.com/aAmIqVJ
-- 一个免杀的框架，它的思想和工作流应该是武器化应有的样子
-	- https://t.zsxq.com/ieamiYn
-- dll劫持 白加黑自动化改造(done)
-	- https://t.zsxq.com/ZRZRbUB
-	- https://t.zsxq.com/Ju7aMzf
-	- https://t.zsxq.com/EeiieY7
-	- https://t.zsxq.com/Qv3BUny
-	- https://t.zsxq.com/NfAaQje
-	- https://t.zsxq.com/QZjY76Y
-	- https://t.zsxq.com/v3RRrrz
-	- https://t.zsxq.com/rNrBA6m
-- 宝塔的研究
-	- https://t.zsxq.com/BU72BEI
-- go-strip 1.0的源码
-	- https://t.zsxq.com/6IurbMR
-- 对NTFS transactions的研究
-	- https://t.zsxq.com/RNVbeim
-- 对SigFlip(将数据隐写到已签名的PE文件上)的原理探究
-	- https://t.zsxq.com/EIeqV7y
-- 通用的内存微信获取个人信息方式
-	- 通过定位到微信内部的数据结构获取微信个人信息，不需要每个版本定位内存偏移
-	- https://t.zsxq.com/QbIy7UZ
-- BIOPASS RAT 源码
-	- https://t.zsxq.com/qR3nmuV
-- xss spoof欺骗模块
-	- https://t.zsxq.com/jmUZVVb
+## 安全补全计划
+
+### 恶意软件篇
+
+1. 汇编与编译器
+2. PE结构
+3. ELF结构
+   1. [ELFLoader](https://t.zsxq.com/057UF2nQf)
+
+4. 进程
+5. WoW64
+6. shellcode
+7. 注入技术
+8. PE Loader
+9. Hooking
+10. 维权
+11. UAC bypass
+12. 横向移动
+13. 对抗
+    1. [一个免杀的框架，它的思想和工作流应该是武器化应有的样子](https://t.zsxq.com/ieamiYn)
+    2. [对NTFS transactions的研究](https://t.zsxq.com/RNVbeim)
+
+14. 混淆
+15. Windows 内核模式下恶意软件
+16. Linux rootKit
+    1. [linux rootkit 入门](https://t.zsxq.com/NFeiM3N)
+
+17. Golang与红队开发
+    1. go-strip
+       1. [go-strip v3.0源码](https://t.zsxq.com/05YVzFaiq)  
+       2. [go-strip 更新啦 v2.0 成品+源码](https://t.zsxq.com/rzvRnEm)
+       3. [go-strip 1.0的源码](https://t.zsxq.com/6IurbMR)
+
+    2. [基于Golang的免杀总结](https://t.zsxq.com/057I2BY3F)
+    3. [Golang红队开发指南](https://t.zsxq.com/05eamI2Zb)
+    4. [garble原理研究](https://t.zsxq.com/05QzfyBmi)
+
+
+
+
+### 自动化扫描篇
+
+1. http(s) 请求
+2. 指纹识别
+   1. [Goby指纹的提取和YARA逆向](https://t.zsxq.com/q7E2Nfe)
+   1. [Golang版的TideFinger](https://t.zsxq.com/05AEU7yB6)
+   
+3. 子域名与爆破
+   1. [ksubdomain新版发布，github action 自动编译三平台](https://t.zsxq.com/uzjAQbu)
+
+4. 端口扫描(nmap)
+5. PoC验证与集成
+   1. [w14scan 更新啦，开放源码！ 完成了第三期作业 《兼容xray和nuclei的poc验证工具》](https://t.zsxq.com/27UJm2v)
+   1. [woodpecker](https://t.zsxq.com/05By33bae)
+   
+6. 扫描规则
+   1. [域传送批量检测 Go源码](https://t.zsxq.com/022RV7e6U) 
+   1. [log4j被动检测](https://t.zsxq.com/053ZnUJqv)
+   
+7. XSS语义化扫描
+   1. xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
+   2. https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
+   3. https://t.zsxq.com/02MBaAiqv xscan v0.8
+   4. https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
+
+8. 爬虫
+   1. crawlergo源码的学习
+      - crawlergo源码的学习，以前就想写动态爬虫了，因为能原生干很多事情，现在终于可以试试了.准备写一份更新在知识星球 (又开一坑)
+      - https://t.zsxq.com/JIYNNNR
+      - https://t.zsxq.com/JYbuBEQ
+      - https://t.zsxq.com/6MNfauz
+
+9. bugbounty
+   1. [我自动化获得微软漏洞赏金的经历](https://t.zsxq.com/a6Aie2f)
+   1. [我的xss bugbounty自动化步骤](https://t.zsxq.com/05jIqrnEu)  
+
+
+
+### 自动化脚本篇
+
+- 模拟点击
+- 颜色识别
+- 图片识别
+- 文字识别
+- 验证识别
+  - [通用验证码识别库源码，可以识别英数+汉字](https://t.zsxq.com/u7AyFe6)
+
+
+### 漏洞与研究篇
+
+1. CVE-2022-0847 Linux DirtyPipe 内核提权与docker逃逸 #go
+
+   - https://t.zsxq.com/fE233RZ
+
+   - https://t.zsxq.com/fE233RZ
+
+   - https://t.zsxq.com/NJaAyVz
+
+   - https://t.zsxq.com/NJaAyVz
+
+2. [宝塔的研究](https://t.zsxq.com/BU72BEI)
+
+3. [某C2鸡肋漏洞分析](https://t.zsxq.com/05miUnIai)
+
+### 武器化开发篇
+
+- 微信聊天记录解密
+  - [通用的内存微信获取个人信息方式](https://t.zsxq.com/QbIy7UZ)
+    - 通过定位到微信内部的数据结构获取微信个人信息，不需要每个版本定位内存偏移
+
+- 文件系统分析平台
+  - [everything导出数据](https://t.zsxq.com/05ubIq3na)
+
+- dll劫持 白加黑自动化改造
+  - https://t.zsxq.com/ZRZRbUB
+  - https://t.zsxq.com/Ju7aMzf
+  - https://t.zsxq.com/EeiieY7
+  - https://t.zsxq.com/Qv3BUny
+  - https://t.zsxq.com/NfAaQje
+  - https://t.zsxq.com/QZjY76Y
+  - https://t.zsxq.com/v3RRrrz
+  - https://t.zsxq.com/rNrBA6m
+- dll自动化劫持
+  - [100行代码实现通用劫持dll](https://t.zsxq.com/05ZrjEiEe)
+
+- 资产扫描管理系统
+- RAT
+  - [Go Rat + electron](https://t.zsxq.com/JE27iea)
+  - [BIOPASS RAT 源码](https://t.zsxq.com/qR3nmuV)
+  - [xss spoof欺骗模块](https://t.zsxq.com/jmUZVVb)
+- 内存马
+  - [内存马生成框架](https://t.zsxq.com/05nEqB6uv)
+
+
+### 工具与原理篇
+
+- [sliver c2相关的原理](https://t.zsxq.com/ny7IIUj)
+- [Windows补丁对比工具是怎么做的？](https://t.zsxq.com/6yv7AEi)
+- [ssrfmap 原理](https://t.zsxq.com/z7yFIIE)
+- [dom-based-xss-finder 采用AST+js动态hook查找dom-xss的原理](https://t.zsxq.com/6YfEAeE)
+  - dom-based-xss-finder 自动查找dom-xss的原理。dom-based-xss-finder是一个chrome插件，采用AST语法解析、js动态hook的方式来检测dom-xss，并会给出对应的调用堆栈。
+- [XssSnpier原理](https://t.zsxq.com/2RbuZ7U)
+  - XssSnpier，是来自3600kee的一个检测xss的chrome插件，看了一下它的大概原理，基于fuzz和基于监控error报错信息的半自动插件。
+- [dalfox源码学习](https://t.zsxq.com/3rZbi2r)
+  - 在信息流上看到有人star这个项目，dalfox是一个基于golang的xss扫描器，介绍说基于golang/DOM parser。
+- CS上线器源码和相关原理
+  - https://t.zsxq.com/uVnqjyb
+  - https://t.zsxq.com/jyfAynI
+- [对SigFlip(将数据隐写到已签名的PE文件上)的原理探究](https://t.zsxq.com/EIeqV7y)
+
+### 其他想法
+
+这个篇章记录那些不靠谱的奇思妙想
+
+- [让小8机器人🤖当自己的todo list](https://t.zsxq.com/05mMZ3faa)
+- [有一个想法，给所有安全类的电子书，pdf，一些演讲的ppt做全文索引，丰富hacking8的搜索功能](https://wx.zsxq.com/dweb2/index/tags/%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95/28851452288141)
