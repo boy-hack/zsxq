@@ -101,10 +101,11 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
       - https://t.zsxq.com/6MNfauz
 
 9. bugbounty
-   1. [我自动化获得微软漏洞赏金的经历](https://t.zsxq.com/a6Aie2f)
-   1. [我的xss bugbounty自动化步骤](https://t.zsxq.com/05jIqrnEu)  
+    - [我自动化获得微软漏洞赏金的经历](https://t.zsxq.com/a6Aie2f)
+    - [我的xss bugbounty自动化步骤](https://t.zsxq.com/05jIqrnEu)  
 
-
+10. 其他
+    - [计算最短CIDR](https://t.zsxq.com/05au3bieQ) 
 
 ### 自动化脚本篇
 
