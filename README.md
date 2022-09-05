@@ -133,6 +133,8 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 
 3. [某C2鸡肋漏洞分析](https://t.zsxq.com/05miUnIai)
 
+4. [复现Fastjson1.2.80漏洞](https://t.zsxq.com/05RFiIQbM)
+
 ### 武器化开发篇
 
 - 微信聊天记录解密
@@ -153,6 +155,7 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
   - https://t.zsxq.com/rNrBA6m
 - dll自动化劫持
   - [100行代码实现通用劫持dll](https://t.zsxq.com/05ZrjEiEe)
+  - [代理DLL自动生成，构建转发导出表(Go源码)](https://t.zsxq.com/05aYByVFy)
 
 - 资产扫描管理系统
 - RAT
