@@ -78,7 +78,10 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 3. 子域名与爆破
    1. [ksubdomain新版发布，github action 自动编译三平台](https://t.zsxq.com/uzjAQbu)
 
-4. 端口扫描(nmap)
+4. 端口扫描
+    1. [像fofa一样解析RDP信息](https://t.zsxq.com/09nOE6IIC)
+    2. [golang实现nmap os detection](https://t.zsxq.com/09qFwd3x6)
+    
 5. PoC验证与集成
    1. [w14scan 更新啦，开放源码！ 完成了第三期作业 《兼容xray和nuclei的poc验证工具》](https://t.zsxq.com/27UJm2v)
    1. [woodpecker](https://t.zsxq.com/05By33bae)
@@ -106,6 +109,9 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 
 10. 其他
     - [计算最短CIDR](https://t.zsxq.com/05au3bieQ) 
+    - [随机化扫描算法Go实现](https://t.zsxq.com/09JHV6FTA)
+    - [一个Go协程可取消的并发模型](https://t.zsxq.com/09YztbRVD)
+    - [资产收集之spf记录](https://t.zsxq.com/09JC1feZW)
 
 ### 自动化脚本篇
 
@@ -181,6 +187,8 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
   - https://t.zsxq.com/uVnqjyb
   - https://t.zsxq.com/jyfAynI
 - [对SigFlip(将数据隐写到已签名的PE文件上)的原理探究](https://t.zsxq.com/EIeqV7y)
+- [读读fingerprintx，一个端口识别工具](https://t.zsxq.com/09a9GMJZg)
+- [把玩donut](https://t.zsxq.com/09YN1UB3i)
 
 ### 其他想法
 
@@ -188,3 +196,4 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 
 - [让小8机器人🤖当自己的todo list](https://t.zsxq.com/05mMZ3faa)
 - [有一个想法，给所有安全类的电子书，pdf，一些演讲的ppt做全文索引，丰富hacking8的搜索功能](https://wx.zsxq.com/dweb2/index/tags/%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95/28851452288141)
+- [用golang实现桌面级全文索引](https://t.zsxq.com/09o8L21s0)
