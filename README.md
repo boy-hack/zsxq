@@ -21,11 +21,13 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 - 第一期：Goby指纹和Poc的提取方法 (已完结)
   - 题目：https://t.zsxq.com/eyfybqv
 - 第二期：调用goby指纹的识别扫描 (已完结)
-  - 题目：https://t.zsxq.com/eyfybqv
+  - 题目：https://t.zsxq.com/0biSDRsQt
 - 第三期：兼容社区PoC的通用验证工具 (已完结)
   - 题目: https://t.zsxq.com/UF2BMvJ
 - 第四期：刷src的xss扫描器(已完结)
   - 题目: https://t.zsxq.com/rV3JqrB
+- 第五期：web 动态爬虫（进行中）
+  - 题目：https://t.zsxq.com/0b3U08Slv
   
 
 ## 安全补全计划
@@ -91,10 +93,11 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
    1. [log4j被动检测](https://t.zsxq.com/053ZnUJqv)
    
 7. XSS语义化扫描
-   1. xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
-   2. https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
-   3. https://t.zsxq.com/02MBaAiqv xscan v0.8
-   4. https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
+   - xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
+   - https://t.zsxq.com/0bcRm0Sp4 xscan v1.4 更新发布
+   - https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
+   - https://t.zsxq.com/02MBaAiqv xscan v0.8
+   - https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
 
 8. 爬虫
    1. crawlergo源码的学习
@@ -112,6 +115,8 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
     - [随机化扫描算法Go实现](https://t.zsxq.com/09JHV6FTA)
     - [一个Go协程可取消的并发模型](https://t.zsxq.com/09YztbRVD)
     - [资产收集之spf记录](https://t.zsxq.com/09JC1feZW)
+    - [退避重试算法](https://t.zsxq.com/0baRkmawG)
+    - [web扫描中重定向问题](https://t.zsxq.com/0b1ewVIjN)
 
 ### 自动化脚本篇
 
@@ -197,3 +202,4 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 - [让小8机器人🤖当自己的todo list](https://t.zsxq.com/05mMZ3faa)
 - [有一个想法，给所有安全类的电子书，pdf，一些演讲的ppt做全文索引，丰富hacking8的搜索功能](https://wx.zsxq.com/dweb2/index/tags/%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95/28851452288141)
 - [用golang实现桌面级全文索引](https://t.zsxq.com/09o8L21s0)
+- [chatgpt与黑客知识库](https://t.zsxq.com/0bCU2vIuY)
