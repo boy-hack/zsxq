@@ -92,13 +92,14 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
    1. [域传送批量检测 Go源码](https://t.zsxq.com/022RV7e6U) 
    1. [log4j被动检测](https://t.zsxq.com/053ZnUJqv)
    
-7. XSS语义化扫描
+7. XSS扫描器
    - xscan扫描器，输入url自动化爬虫+XSS扫描，bugbounty挖洞神器
-   - https://t.zsxq.com/0bcRm0Sp4 xscan v1.4 更新发布
-   - https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
-   - https://t.zsxq.com/02MBaAiqv xscan v0.8
-   - https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
-
+    - https://t.zsxq.com/0bcRm0Sp4 xscan v1.4 更新发布
+    - https://t.zsxq.com/02au3FMFM xscan 更新 v1.2 
+    - https://t.zsxq.com/02MBaAiqv xscan v0.8
+    - https://t.zsxq.com/02uz7iuzr xscan v0.1 发布
+   - dom-xss-scan 开源
+    - https://t.zsxq.com/0dD7RF9YW
 8. 爬虫
    1. crawlergo源码的学习
       - crawlergo源码的学习，以前就想写动态爬虫了，因为能原生干很多事情，现在终于可以试试了.准备写一份更新在知识星球 (又开一坑)
@@ -108,7 +109,7 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
 
 9. bugbounty
     - [我自动化获得微软漏洞赏金的经历](https://t.zsxq.com/a6Aie2f)
-    - [我的xss bugbounty自动化步骤](https://t.zsxq.com/05jIqrnEu)  
+    - [我的xss bugbounty自动化步骤](https://t.zsxq.com/05jIqrnEu)
 
 10. 其他
     - [计算最短CIDR](https://t.zsxq.com/05au3bieQ) 
