@@ -1,8 +1,6 @@
 # Hacking自动化 安全补全计划
 Hacking自动化就是好玩的星球相关，星球介绍: https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484177&idx=1&sn=e394fc7db94d90fd64b2402ba54a4731&chksm=fc986a36cbefe3202b37f8943b11b98176b14d0f2c139857b5510c2ac49acf2e462d06629799&token=338286590&lang=zh_CN#rd
 
-加入星球：https://pay1.hacking8.com/buy/1
-
 
 很多黑客和安全工具的构造是那么巧妙，我看了很多安全工具的代码，将它们值得学习的地方记录了下来。这个仓库将持续更新星球中的精华文章和补全安全知识，记录笔记，对自己对他人都是一种收获。付费加入是我更新的动力。
 
