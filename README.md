@@ -1,12 +1,11 @@
 # Hacking自动化 安全补全计划
 Hacking自动化就是好玩的星球相关
 
-星球预览：https://public.zsxq.com/groups/15522244414512.html
+- [点击星球预览](https://public.zsxq.com/groups/15522244414512.html)
+- [点击星球介绍](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484177&idx=1&sn=e394fc7db94d90fd64b2402ba54a4731&chksm=fc986a36cbefe3202b37f8943b11b98176b14d0f2c139857b5510c2ac49acf2e462d06629799&token=338286590&lang=zh_CN#rd)
+- [2023知识星球总结](https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484972&idx=1&sn=ceb3c486344f03f7278249efcb77889d&chksm=fc986f0bcbefe61da887e0e747217d46c8f3eaba15e7d78f593f4718f1865544ab50b57b4aec&token=1598106325&lang=zh_CN#rd)
 
-星球介绍: https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484177&idx=1&sn=e394fc7db94d90fd64b2402ba54a4731&chksm=fc986a36cbefe3202b37f8943b11b98176b14d0f2c139857b5510c2ac49acf2e462d06629799&token=338286590&lang=zh_CN#rd
-
-
-很多黑客和安全工具的构造是那么巧妙，我看了很多安全工具的代码，将它们值得学习的地方记录了下来。这个仓库将持续更新星球中的精华文章和补全安全知识，记录笔记，对自己对他人都是一种收获。付费加入是我更新的动力。
+> 很多黑客和安全工具的构造是那么巧妙，我看了很多安全工具的代码，将它们值得学习的地方记录了下来。这个仓库将持续更新星球中的精华文章和补全安全知识，记录笔记，对自己对他人都是一种收获。付费加入是我更新的动力。
 
 ps: 随时修改，有链接的是正在补全的知识，无链接的代表占位的知识，等以后补全。
 
@@ -35,7 +34,8 @@ ps: 随时修改，有链接的是正在补全的知识，无链接的代表占�
   - 题目: https://t.zsxq.com/rV3JqrB
 - 第五期：web 动态爬虫（进行中）
   - 题目：https://t.zsxq.com/0b3U08Slv
-  
+- 第六期：训练自己的网络安全大模型
+  - 题目：https://t.zsxq.com/18uy7yyYU
 
 ## 安全补全计划
 
