@@ -1,0 +1,81 @@
+site_name: Hacking自动化就是好玩 - 知识星球文档
+site_url: https://zsxq.hacking8.com/docs/
+site_description: 探索漏洞赏金bug bounty相关的自动化、红队开发以及武器化
+copyright: Copyright &copy; 2025 Hacking自动化就是好玩知识星球
+
+theme: 
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      accent: grey
+      toggle:
+        icon: material/weather-night
+        name: 切换到浅色模式
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+  language: zh
+  font: 
+    text: "Roboto"
+
+plugins:
+  - search:
+      lang: zh
+
+nav:
+  - 星球介绍:
+    - 星球概述: intro/overview.md
+    - 加入说明: intro/how-to-join.md
+    - 费用说明: intro/pricing.md
+  - 星球作业:
+    - 第一期 - 某工具指纹的提取方法: assignments/assignment-01.md
+    - 第二期 - 指纹识别工具编写: assignments/assignment-02.md
+    - 第三期 - 通用PoC验证: assignments/assignment-03.md
+    - 第四期 - XSS扫描器: assignments/assignment-04.md
+    - 第五期 - 动态爬虫: assignments/assignment-05.md
+    - 第六期 - 安全大模型: assignments/assignment-06.md
+  - 安全补全计划:
+    - 计划概述: security-plan/overview.md
+    - 恶意软件篇: security-plan/malware.md
+    - 自动化扫描篇: security-plan/auto-scanning.md
+    - 自动化脚本篇: security-plan/auto-scripts.md
+    - 漏洞与研究篇: security-plan/vulnerabilities.md
+    - 武器化开发篇: security-plan/weaponization.md
+    - 工具与原理篇: security-plan/tools-principles.md
+    - 安全大模型篇: security-plan/ai-security.md
+    - 其他想法: security-plan/ideas.md
+  - XSCAN:
+    - 工具介绍: xscan/intro.md
+    - 使用指南: xscan/usage.md
+    - 激活码与在线扫描: xscan/activation.md
+    - 配置详解: xscan/config.md
+    - 常见问题: xscan/faq.md
+    - 成功案例与反馈: xscan/cases.md
+  - W15SCAN:
+    - 工具介绍: w15scan/intro.md
+    - 安装教程: w15scan/installation.md
+    - 项目管理: w15scan/project-management.md
+    - 扫描技术细节: w15scan/scanning-tech.md
+    - 配置管理: w15scan/configuration.md
+    - 使用指南: w15scan/usage.md
+  - BugBounty平台:
+    - 平台介绍: bugbounty/intro.md
+    - 平台使用: bugbounty/usage.md
+    - 实战经验: bugbounty/experience.md
+    - 资源汇总: bugbounty/resources.md
+  
