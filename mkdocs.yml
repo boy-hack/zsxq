@@ -39,9 +39,9 @@ plugins:
 
 nav:
   - 星球介绍:
-    - 星球概述: intro/overview.md
-    - 加入说明: intro/how-to-join.md
-    - 费用说明: intro/pricing.md
+    - 星球概述: index.md
+    - 加入说明: how-to-join.md
+    - 费用说明: pricing.md
   - 星球作业:
     - 第一期 - 某工具指纹的提取方法: assignments/assignment-01.md
     - 第二期 - 指纹识别工具编写: assignments/assignment-02.md
