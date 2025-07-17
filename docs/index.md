@@ -1,6 +1,9 @@
-# 星球概述
+# <img src="./assets/logo.jpeg" alt="Security" width="50" style="border-radius: 50%; border: 3px solid #ddd; vertical-align: middle; margin-right: 7px;margin-top: -10px;"> 星球概述 
 
-## 🌟 Hacking自动化就是好玩
+
+## Hacking自动化就是好玩
+
+
 
 欢迎来到 **Hacking自动化就是好玩** 知识星球！这里是一个专注于漏洞赏金（Bug Bounty）自动化、红队开发和武器化的技术社区。
 
