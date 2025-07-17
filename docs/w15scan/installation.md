@@ -1,8 +1,10 @@
 # 安装教程
 
-## 推荐配置
+**推荐配置**
 
 **最低配置**：4C8G
+
+下载最新w15scan: https://wx.zsxq.com/tags/w15scan/51122541281824  
 
 ## WEB端安装
 
@@ -10,7 +12,7 @@
 
 server端结构如图：
 
-![server端结构](image-placeholder.png)
+![image-20250718005207652](./assets/image-20250718005207652.png)
 
 - **config**：扫描器各类配置文件，包含指纹、poc、字典等，与web端实时同步，方便后续迁移或升级
 - **db**：数据库持久化文件
@@ -54,7 +56,7 @@ docker-compose logs
 
 看到类似以下 `Listening and serving HTTP` 即代表启动成功：
 
-![启动成功日志](image-placeholder.png)
+![image-20250718005225719](./assets/image-20250718005225719.png)
 
 #### 5. 登录系统
 
@@ -109,7 +111,7 @@ sudo ./client
 
 运行节点后可在web端节点管理看到节点状态：
 
-![节点状态](image-placeholder.png)
+![image-20250718005240490](./assets/image-20250718005240490.png)
 
 ## 部署注意事项
 

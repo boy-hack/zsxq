@@ -69,10 +69,10 @@ nav:
   - W15SCAN:
     - 工具介绍: w15scan/intro.md
     - 安装教程: w15scan/installation.md
-    - 项目管理: w15scan/project-management.md
-    - 扫描技术细节: w15scan/scanning-tech.md
-    - 配置管理: w15scan/configuration.md
     - 使用指南: w15scan/usage.md
+    - 项目管理: w15scan/project-management.md
+    - 配置管理: w15scan/configuration.md
+    - 扫描技术细节: w15scan/scanning-tech.md
   - BugBounty平台:
     - 平台介绍: bugbounty/intro.md
     - 平台使用: bugbounty/usage.md
