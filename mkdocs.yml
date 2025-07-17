@@ -21,6 +21,8 @@ theme:
         icon: material/weather-night
         name: 切换到浅色模式
   features:
+    - navigation.prefetch
+    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
