@@ -34,6 +34,8 @@ theme:
   language: zh
   font: 
     text: "Roboto"
+extra_css:
+  - extra.css
 
 plugins:
   - search:
