@@ -5,6 +5,7 @@ copyright: Copyright &copy; 2025 Hacking自动化就是好玩知识星球
 
 theme: 
   name: material
+  custom_dir: override
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
