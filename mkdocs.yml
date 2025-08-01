@@ -53,6 +53,7 @@ nav:
     - 第四期 - XSS扫描器: assignments/assignment-04.md
     - 第五期 - 动态爬虫: assignments/assignment-05.md
     - 第六期 - 安全大模型: assignments/assignment-06.md
+    - 第七期 - 发布你的漏洞战报: assignments/assignment-07.md
   - 安全补全计划:
     - 计划概述: security-plan/overview.md
     - 恶意软件篇: security-plan/malware.md
