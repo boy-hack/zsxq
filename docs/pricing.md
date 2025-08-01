@@ -7,10 +7,10 @@
 星球目前的价格为 **￥356 元/年**。每天不到一块钱，挖一个漏洞就能获得多倍汇报。
 
 星友朋友圈  
-<img src="assets/image1.png" width="500" height="300">
+<img src="/assets/image1.png" width="500" height="300">
 
 星友评价(单位:美金)  
-![alt text](f5caa37a88da7f2d0dd0c6d52c8121e.png)
+![alt text](assets/f5caa37a88da7f2d0dd0c6d52c8121e.png)
 
 随着星球内容的不断丰富、星球人数增多、专属工具的迭代以及知识星球API费用，星球的价格未来可能会上调。
 
