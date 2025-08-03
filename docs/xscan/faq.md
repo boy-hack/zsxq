@@ -90,6 +90,11 @@ cookies:
 - **JSON格式**：便于程序处理
 - **Markdown格式**：便于阅读和报告
 
+### Q: 为什么有些靶场xss扫描不到？
+
+**A:** 部分靶场网页设置比较简单，容易被xscan相似度算法忽略。
+想要测试靶场，可以关掉gau，关闭similarity_url、similarity_page_dom设置，只开启simile_hash
+
 ## 故障排除
 
 ### 证书问题
